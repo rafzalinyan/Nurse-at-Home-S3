@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Maria Gevorgyan",
+        "rating": "4.8",
+        "reviews": 456,
+        "price": "$20/h",
+        "times": ["7:00 PM", "8:00 PM", "9:00 PM"]
+    },
+    {
+        "name": "Nvard Babayan",
+        "rating": "4.7",
+        "reviews": 380,
+        "price": "$18/h",
+        "times": ["12:00 PM", "12:30 PM", "1:30 PM"]
+    },
+    {
+        "name": "Avet Hakobyan",
+        "rating": "4.9",
+        "reviews": 275,
+        "price": "$22/h",
+        "times": ["4:00 PM", "5:00 PM", "6:00 PM"]
+    },
+    {
+        "name": "Laura Petrosyan",
+        "rating": "4.6",
+        "reviews": 307,
+        "price": "$21/h",
+        "times": ["7:30 PM", "8:30 PM"]
+    }
+]
